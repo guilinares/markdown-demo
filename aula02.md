@@ -12,4 +12,8 @@ __Geek University__ tem os cursos *bonzinhos*.
 
 # Links
 
-[Meu GitHub](https://github.com/guilinares)
+[Meu GitHub](https://github.com/guilinares
+"Meu perfil no github")
+ou
+<https://github.com/guilinares>
+<guimine.20@gmail.com>
